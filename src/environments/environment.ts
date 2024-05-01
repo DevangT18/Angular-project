@@ -3,7 +3,8 @@
 // The list of file replacements can be found in `angular.json`.
 
 export const environment = {
-  production: false
+  production: true,
+  baseURL: "https://nodejs-project-ab26.onrender.com/api"
 };
 
 /*
